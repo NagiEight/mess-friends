@@ -7,6 +7,8 @@
 .buildlog/
 .history
 
+/android/app/google-services.json
+/android/keystore/team-debug.keystore
 
 
 # Flutter repo-specific
